@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hey, I'm Avery (@averydev960)
 
-<!--
-**averydev960/averydev960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software engineer based in Seattle. Mostly building CLI utilities, distributed systems experiments, and backend services. Currently focused on Go tooling and contributing to open-source developer workflows.
 
-Here are some ideas to get you started:
+#### What I'm up to:
+- Writing performant backend services in Go and Python.
+- Digging into container internals and Linux namespaces.
+- Maintaining CLI tools and breaking my Neovim configs.
+- Contributing fixes and docs to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Tooling:
+`Go` • `Python` • `JavaScript` • `Docker` • `Neovim` • `PostgreSQL` • `Linux`
+
+#### Connect:
+- Open an issue or PR on any of my public repos.
+- Email: avery.dev960@proton.me
